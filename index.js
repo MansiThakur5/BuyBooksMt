@@ -1,3 +1,4 @@
+alert(`Welcome to MT Book Store`)
 const books = [
     {
         title: "Maame",
